@@ -195,6 +195,7 @@ ul li .active::after{
 }
 .reece{
     color: dimgrey;
+    font-size:20px;
 }
 .skills-section {
   padding: 80px 40px;
