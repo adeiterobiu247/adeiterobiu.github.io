@@ -182,7 +182,7 @@ ul li .active::after{
     display: flex;
     gap: 70px;
     padding-top: 1.7em;
-    margin-left: 10em;
+    margin-left: 15em;
 }
 .rob{
     color: rgb(250, 247, 250);
@@ -760,9 +760,10 @@ ul li .active::after{
   .reece {
     font-size: 14px;
   }
-    .champ{
+.champ{
         position:relative;
         left:-1.2em;
+}
   .marco{
     position: relative;
     left: -10px;
