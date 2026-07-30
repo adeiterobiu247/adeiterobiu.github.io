@@ -761,14 +761,6 @@ ul li .active::after{
     position: relative;
     left: -1.2em;
   }
-  .marco{
-    position: relative;
-    left: -10px;
-  }
-  .reece{
-    position: relative;
-    left: -0.8em;
-  }
   .skills-title,
   .heading,
   .projects h2,
