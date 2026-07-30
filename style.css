@@ -147,7 +147,7 @@ ul li .active::after{
 .gaffer img{
     width: 50%;
     height:50%;
-    margin-top: 15em;
+    margin-top: 19em;
     border-radius: 10px;
     box-shadow:0 0 30px rgba(168,85,247,.5);
 }
@@ -182,7 +182,7 @@ ul li .active::after{
     display: flex;
     gap: 70px;
     padding-top: 1.7em;
-    margin-left: 28em;
+    margin-left: 20em;
 }
 .rob{
     color: rgb(250, 247, 250);
