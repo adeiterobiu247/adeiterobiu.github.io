@@ -676,9 +676,6 @@ ul li .active::after{
     padding: 0.8em 1.2em;
     margin-bottom: 10px;
   }
-  .champ{
-    margin-left: 0.85em;
-  }
   .pedro {
     font-size: 16px;
     padding: 0.5em;
