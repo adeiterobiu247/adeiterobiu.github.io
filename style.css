@@ -762,7 +762,7 @@ ul li .active::after{
   }
  .champ{
     position: relative;
-    left: -1.5em;
+    left: -2em;
   }
   .marco{
     position: relative;
