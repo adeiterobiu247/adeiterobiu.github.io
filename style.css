@@ -182,7 +182,7 @@ ul li .active::after{
     display: flex;
     gap: 70px;
     padding-top: 1.7em;
-    margin-left: 20em;
+    margin-left: 10em;
 }
 .rob{
     color: rgb(250, 247, 250);
@@ -422,7 +422,7 @@ ul li .active::after{
   gap: 18px;
 }
 .contact-form{
-    margin-left: 32em;
+    margin-left: 25em;
 }
 
 .contact-form input,
