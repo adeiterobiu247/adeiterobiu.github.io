@@ -761,7 +761,8 @@ ul li .active::after{
     font-size: 14px;
   }
     .champ{
-        margin-left:-1.5em;
+        position:relative;
+        left:-1.2em;
   .marco{
     position: relative;
     left: -10px;
