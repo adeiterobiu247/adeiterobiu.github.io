@@ -759,8 +759,9 @@ ul li .active::after{
   .marco,
   .reece {
     font-size: 14px;
-    margin-left: -1.1em;
   }
+    .champ{
+        margin-left:-0.9em;
   .marco{
     position: relative;
     left: -10px;
