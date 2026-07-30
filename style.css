@@ -760,10 +760,10 @@ ul li .active::after{
   .reece {
     font-size: 14px;
   }
-.champ{
-        position:relative;
-        left:-1.2em;
-}
+ .champ{
+    position: relative;
+    left: -1.5em;
+  }
   .marco{
     position: relative;
     left: -10px;
