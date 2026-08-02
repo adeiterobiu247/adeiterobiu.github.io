@@ -183,8 +183,7 @@ ul li .active::after{
     gap: 70px;
     padding-top: 1.7em;
     text-align:center;
-    padding:0 20px;
-    box-sizing:border-box;
+    margin-left:28em;
 }
 .rob{
     color: rgb(250, 247, 250);
@@ -760,9 +759,7 @@ ul li .active::after{
     font-size: 14px;
   }
  .champ{
-  padding:0 15px;
-     font-size:0.9rem;
-  }
+margin-left:1em;
   .skills-title,
   .heading,
   .projects h2,
