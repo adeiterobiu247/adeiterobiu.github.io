@@ -182,7 +182,6 @@ ul li .active::after{
     display: flex;
     gap: 70px;
     padding-top: 1.7em;
-    text-align:center;
     margin-left:28em;
 }
 .rob{
@@ -759,7 +758,8 @@ ul li .active::after{
     font-size: 14px;
   }
  .champ{
-margin-left:1em;
+margin-left:-1.5em;
+     {
   .skills-title,
   .heading,
   .projects h2,
